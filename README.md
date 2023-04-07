@@ -95,7 +95,7 @@ See on [d2l](https://learn.bcit.ca/d2l/) labs, lectures, office hours?
  
  
  > Success consists of going from failure to failure without loss of enthusiasm
- > - Batman (probably)
+ > \- Batman (probably)
  
  
  
