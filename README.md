@@ -11,7 +11,7 @@
 * understand the lecture and labs **well**
 * will be given a conceptual and logical design and a partial SQL script that implements that design. You will be asked to write SQL commands to complete the DB implementation and also write queries to answer specific questions
 * A4 sheet with whatever info, ONE SIDE only, name and A0xxx student number on it, hand in at end.
-* See labs etc on [d2l](https://learn.bcit.ca/d2l/)
+* See the ultimate [cheatsheet](https://docs.google.com/document/d/1_hhc6lPYvq_LYZIQBkMW3d_ZA3si6bO3admFDYgkJWc/edit?usp=sharing)
 
 
 
